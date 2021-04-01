@@ -1,8 +1,8 @@
 ### Hi there 👨🏻‍💻
 ## I'm Khalil Daoulat Full Stack developer. 
-I'm very interested in web and mobile applications, also intersted in security especially the Cryptoghraphy, have also experiences in problem solving and CTF competition preparing 'Capture the flag'.
+I'm very interested in web and mobile applications, also intersted in security especially the Cryptoghraphy, also creator of problem-solving and CTF competitions.
 
-- 🔭 I’m currently working at adria business & technology enterprise as Full Stack developer.
+- 🔭 I’m currently working at Adria Business & Technology enterprise as a Full Stack developer.
 - 🌱 I’m currently freelancing on Spring boot projects.
 - 💬 Ask me about Java || the security part as CTF or ACPC competitions.
 - ⚡ Fun fact: i can run 10km in 50min .
