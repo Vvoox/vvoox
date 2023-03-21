@@ -1,5 +1,5 @@
 ### Hi there 👨🏻‍💻
-## I'm Khalil Daoulat Software Engineer 
+## I'm a Software Engineer 
 Working in Digital Banking and Financial Departement, Trade Finance Development.
 
 - 🔭 I’m currently working Freelancer.
