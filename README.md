@@ -2,7 +2,7 @@
 ## I'm Khalil Daoulat Software Engineer 
 Working in Digital Banking and Financial Departement, Trade Finance Development.
 
-- 🔭 I’m currently working at Adria Business & Technology enterprise as a Software Engineer.
+- 🔭 I’m currently working Freelancer.
 - 💬 Ask me about Java || the security part as CTF or ACPC competitions.
 - ⚡ Fun fact: i can run 10km in 50min .
 
