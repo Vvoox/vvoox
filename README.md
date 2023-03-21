@@ -2,8 +2,8 @@
 ## I'm a Software Engineer 
 Working in Digital Banking and Financial Departement, Trade Finance Development.
 
-- 🔭 I’m currently working Freelancer.
-- 💬 Ask me about Java || the security part as CTF or ACPC competitions.
+- 🔭 I’m currently working as a Free-lancer.
+- 💬 Ask me about Java/Javascript, also competitions such as CTF or ACPC.
 - ⚡ Fun fact: i can run 10km in 50min .
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Vvoox&theme=tokyonight&show_icons=true)
